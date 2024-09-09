@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.coin-logo {
+  margin-right: 10px;
+  width: 15%;
+}
+
+.left-side {
+  display: flex;
+  align-items: center;
+}
+
+.right-side {
+  display: flex;
+  align-items: center;
+  padding-right: 10px;
+}
+
+.usd-value-style {
+  margin-right: 20px;
+}

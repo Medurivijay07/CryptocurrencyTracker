@@ -1,0 +1,41 @@
+/* Write your CSS code here */
+.cryptocurrency-title {
+  color: #00e7ff;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.image-style {
+  width: 80%;
+}
+
+.lists-container {
+  width: 80%;
+  border: 1px #00e7ff solid;
+  list-style-type: none;
+}
+
+.header {
+  background-color: #092e33;
+  color: #ffffff;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-header {
+  display: flex;
+  color: #ffffff;
+}
+
+.coin-symbol {
+  margin-right: 10px;
+}
+
+.right-header {
+  display: flex;
+  padding-right: 10px;
+}
+
+.usd-title {
+  margin-right: 20px;
+}
